@@ -184,15 +184,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 - <b>Day 86</b> - [Professional Portfolio Project - (Game)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2086)
 
 <p align="center">
-Last Updated : Jan. 31, 2021
+Last Updated : Oct. 11, 2021
 </p>
 
-<p align="center">
-Please ⭐ this repository if you loved it !
-<br>
-< Happy Coding />
-<br>
-<b>Ashutosh Krishna<b>
-<br>
-<a href="https://ashutoshkrris.herokuapp.com">Portfolio</a> | <a href="https://github.com/ashutoshkrris">Github</a> | <a href="https://ashutoshkrris.medium.com">Medium</a>
+
 </p>
